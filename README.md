@@ -1,6 +1,6 @@
 <div align="center"><a href="#"><img width="auto" height="auto" src="https://github.com/Rutvik-C/Rutvik-C/blob/main/pro_ills.png"/></a></div>
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm Rutvik Choudhari </h1>
-<h2 align="center">I'm a Computer science student with interest in <i>Native android development (Java)</i> and <i>Machine Learning</i><br> </h2>
+<h2 align="center">I'm a Computer science student with interest in <i>Native android development (Java)</i> and <i>Machine Learning</i><br>📱💻🤖</h2>
 
 <h2 align="center">📚 Languages 📚<br/><br/>
   <p align="center"> 
