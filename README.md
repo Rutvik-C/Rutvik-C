@@ -1,3 +1,5 @@
+<a href="#"><img align="center" width="100%" height="auto" src="https://ouch-cdn2.icons8.com/kde_2zZr0a0J8QWnGSj9blHMGjgrnk59GrYj1JxqGgA/rs:fit:784:784/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzk2/LzQwYjU0NGUwLWJm/ODQtNGI2Mi1iYmRm/LWQzMDU5NzQ3MWUw/Ny5zdmc.png" height="150px"/>
+
 ### Hi there, I'm Rutvik
 
 ## I'm a computer science student with interest in Native android development (Java) and Machine Learning 
