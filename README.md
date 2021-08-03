@@ -1,32 +1,28 @@
-<a href="#"><img align="center" width="100%" height="auto" src="https://ouch-cdn2.icons8.com/kde_2zZr0a0J8QWnGSj9blHMGjgrnk59GrYj1JxqGgA/rs:fit:784:784/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNzk2/LzQwYjU0NGUwLWJm/ODQtNGI2Mi1iYmRm/LWQzMDU5NzQ3MWUw/Ny5zdmc.png" height="150px"/>
+<div align="center"><a href="#"><img width="auto" height="auto" src="https://github.com/Rutvik-C/Rutvik-C/blob/main/pro_ills.png"/></a></div>
 
-### Hi there, I'm Rutvik
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm Rutvik Choudhari </h1>
+<h2 align="center">I'm a Computer science student with interest in <i>Native android development (Java)</i> and <i>Machine Learning</i><br> </h2>
 
-## I'm a computer science student with interest in Native android development (Java) and Machine Learning 
+<h2 align="center">📚 Languages 📚<br/><br/>
+  <p align="center"> 
+    <a href="#"><img alt="Python" width="50px" src="https://img.icons8.com/color/48/000000/python.png"/></a> 
+    <a href="#"><img alt="Java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="#"><img alt="C" width="50px" src="https://img.icons8.com/color/452/c-programming.png"/></a>
+    <a href="#"><img alt="SQL" width="50px" src="https://img.icons8.com/fluency/48/000000/database.png"/></a>
+</p>
+</h2>
 
-[<img align="left" alt="RutvikChoudhari-LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rutvik-choudhari-76b4311b4/)
-
-<br />
-
-### Languages
-
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/pMPV4Qq.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.freelogovectors.net/svg05/java-logo.svg" />
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" />
-<img align="left" alt="SQL" width="26px" src="https://toppng.com/uploads/preview/database-database-icon-11563207079binxarjjyp.png" />
-
-<br />
-
-### Technologies
-<img align="left" alt="Android" width="26px" src="https://www.kindpng.com/picc/m/49-491564_new-android-logo-png-transparent-png.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
-<img align="left" alt="Sci-Kit Learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" alt="MySQL" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
-<img align="left" alt="Flask" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png" />
-<img align="left" alt="Azure" width="26px" src="https://www.pinclipart.com/picdir/middle/531-5312068_transparent-azure-logo-png-clipart.png" />
-
-<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<h2 align="center">🚀 Technologies 🚀<br/><br/>
+  <p align="center"> 
+    <a href="#"><img alt="Android" width="50px" src="https://img.icons8.com/fluency/48/000000/android-os.png"/></a> 
+    <a href="#"><img alt="Android Studio" width="50px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a>
+    <a href="#"><img alt="Firebase" width="50px" src="https://img.icons8.com/color/452/firebase.png"/></a>
+    <a href="#"><img alt="Sci-Kit Learn" align="top" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"/></a>
+    <a href="#"><img alt="Tensorflow" width="50px" src="https://img.icons8.com/color/96/000000/tensorflow.png"/></a>
+    <a href="#"><img alt="MySQL" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/></a>
+    <a href="#"><img alt="Flask" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png"/></a>
+    <a href="#"><img alt="Azure" width="50px" src="https://img.icons8.com/color/96/000000/azure-1.png"/></a>
+    <a href="#"><img alt="Git" width="50px" src="https://img.icons8.com/color/96/000000/git.png"/></a>
+    <a href="#"><img alt="GitHub" width="50px" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+</p>
+</h2>
