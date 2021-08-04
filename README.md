@@ -30,6 +30,9 @@
     <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rutvik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutvik-C&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+  
+  <a href="#"><img alt="Rutvik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rutvik-C&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
 </h2>    
 
 <h2 align="left">💻 Connect with me 💻<br/><br/>
