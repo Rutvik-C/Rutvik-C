@@ -27,7 +27,7 @@
 </h2>
 
 <h2 align="center">📊 Github Stats 📊<br><br>
-    <a href="https://github.com/Rutvik-C/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rutvik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutvik-C&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </h2>    
