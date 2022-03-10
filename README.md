@@ -5,6 +5,7 @@
 <h2 align="center">📚 Languages 📚<br/><br/>
   <p align="center"> 
     <a href="#"><img alt="Python" width="50px" src="https://img.icons8.com/color/144/000000/python.png"/></a> 
+    <a href="#"><img alt="Go" width="50px" src="https://img.icons8.com/color/144/000000/golang.png"/></a>
     <a href="#"><img alt="Java" width="50px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/></a>
     <a href="#"><img alt="C" width="50px" src="https://img.icons8.com/color/452/c-programming.png"/></a>
     <a href="#"><img alt="SQL" width="50px" src="https://img.icons8.com/fluency/144/000000/database.png"/></a>
@@ -15,14 +16,14 @@
   <p align="center"> 
     <a href="#"><img alt="Android" width="50px" src="https://img.icons8.com/fluency/144/000000/android-os.png"/></a> 
     <a href="#"><img alt="Android Studio" width="50px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"/></a>
+    <a href="#"><img alt="Django" width="50px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/></a>
+    <a href="#"><img alt="MySQL" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/></a>
+    <a href="#"><img alt="MongoDB" width="50px" src="https://img.icons8.com/color/96/000000/mongodb.png"/></a>
     <a href="#"><img alt="Firebase" width="50px" src="https://img.icons8.com/color/144/firebase.png"/></a>
     <a href="#"><img alt="Sci-Kit Learn" align="top" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"/></a>
     <a href="#"><img alt="Tensorflow" width="50px" src="https://img.icons8.com/color/144/000000/tensorflow.png"/></a>
-    <a href="#"><img alt="MySQL" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"/></a>
-    <a href="#"><img alt="Flask" width="50px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png"/></a>
     <a href="#"><img alt="Azure" width="50px" src="https://img.icons8.com/color/144/000000/azure-1.png"/></a>
     <a href="#"><img alt="Git" width="50px" src="https://img.icons8.com/color/144/000000/git.png"/></a>
-    <a href="#"><img alt="GitHub" width="50px" src="https://img.icons8.com/color/144/000000/github--v1.png"/></a>
 </p>
 </h2>
 
