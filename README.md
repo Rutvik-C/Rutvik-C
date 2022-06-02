@@ -5,8 +5,8 @@
 <h2 align="center">📚 Languages 📚<br/><br/>
   <p align="center"> 
     <a href="#"><img alt="Python" width="50px" src="https://img.icons8.com/color/144/000000/python.png"/></a> 
-    <a href="#"><img alt="Go" width="50px" src="https://img.icons8.com/color/144/000000/golang.png"/></a>
     <a href="#"><img alt="Java" width="50px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/></a>
+    <a href="#"><img alt="Go" width="50px" src="https://img.icons8.com/color/144/000000/golang.png"/></a>
     <a href="#"><img alt="C" width="50px" src="https://img.icons8.com/color/452/c-programming.png"/></a>
     <a href="#"><img alt="SQL" width="50px" src="https://img.icons8.com/fluency/144/000000/database.png"/></a>
 </p>
