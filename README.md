@@ -40,6 +40,5 @@
   <p align="left">
     <a href = "mailto: rutvikchoudhari97@gmail.com"><img alt="Rutvik Choudhari Email" width="50px" src="https://img.icons8.com/fluency/144/000000/email-open.png"/></a>
     <a href = "https://www.linkedin.com/in/rutvik-choudhari/"><img alt="Rutvik Choudhari on LinkedIn" width="50px" src="https://img.icons8.com/fluent/144/000000/linkedin.png"/></a>
-    <a href = "https://www.instagram.com/rutvik_c14/"><img alt="Rutvik Choudhari on Instagram" width="50px" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/></a>
   </p>
 </h2>
