@@ -1,6 +1,6 @@
 <div align="center"><a href="#"><img width="auto" height="auto" src="https://github.com/Rutvik-C/Rutvik-C/blob/main/pro_ills.png"/></a></div>
 <h1 align="center">Hey Everyone<br/>I'm Rutvik Choudhari</h1>
-<h2 align="center">I'm a Computer science student with interest in <i>Native android development (Java)</i> and <i>Machine Learning</i><br>📱💻🤖</h2>
+<h2 align="center">I'm a Computer Engineering student skilled in Python (Django), Java (Spring Boot, Android), and Angular<br>📱💻🤖</h2>
 
 <h2 align="center">📚 Languages 📚<br/><br/>
   <p align="center"> 
